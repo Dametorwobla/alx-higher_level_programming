@@ -1,4 +1,4 @@
-1.Run Python file
+.Run Python file
 2.Run inline
 3.Hello, print
 4.Print integer
